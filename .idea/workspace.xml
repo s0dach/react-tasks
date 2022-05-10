@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60d629b8-6adc-497a-9f43-e244d6b0e3b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/PostService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/PostService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AppRouter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AppRouter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Counter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PostFilter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PostFilter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PostForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PostForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PostItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PostItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PostList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PostList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UI/Loader/Loader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UI/Loader/Loader.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UI/Loader/Loader.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UI/Loader/Loader.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UI/Modal/MyModal.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UI/Modal/MyModal.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UI/MyModel.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UI/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UI/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UI/button/MyButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UI/button/MyButton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UI/button/MyButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UI/button/MyButton.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UI/input/MyInput.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UI/input/MyInput.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UI/input/MyInput.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UI/input/MyInput.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UI/paginator/Paginator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UI/paginator/Paginator.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UI/select/MySelect.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UI/select/MySelect.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/classCounter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/classCounter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Router/routs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useFetching.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useFetching.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useObserver.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useObserver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/usePosts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/usePosts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PostIdPages.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PostIdPages.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Posts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Posts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/pages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/pages.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28Su6DJk0sa5mQI6xCXRFvGnFRH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/WebstormProjects/untitled&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60d629b8-6adc-497a-9f43-e244d6b0e3b5" name="Changes" comment="" />
+      <created>1651222137556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651222137556</updated>
+      <workItem from="1651222138837" duration="16237000" />
+      <workItem from="1651311513979" duration="11752000" />
+      <workItem from="1651440364028" duration="230000" />
+      <workItem from="1651440751569" duration="591000" />
+      <workItem from="1651489591008" duration="18075000" />
+      <workItem from="1651569368106" duration="20286000" />
+      <workItem from="1651659665594" duration="9416000" />
+      <workItem from="1651685234007" duration="1353000" />
+      <workItem from="1652173171522" duration="763000" />
+      <workItem from="1652177298921" duration="181000" />
+      <workItem from="1652194485870" duration="2715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
